@@ -1,0 +1,3 @@
+#testadoxesquederepositório
+
+print("laryfeia")
